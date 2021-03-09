@@ -1,2 +1,2 @@
-# Agent-Based-Models
-This repo contains Agent-Based-Models in NetLogo. 
+# Agent-Based Models
+This repo contains Agent-Based Models in NetLogo. 
